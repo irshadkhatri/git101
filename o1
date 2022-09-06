@@ -1,0 +1,9 @@
+# import seaborn as sns
+# import matplotlib.pyplot as plt
+# sns.set_theme(style=("str",color_codes=True")
+# #Load dataset
+# phool = sns.load_dataset("data_viz")
+
+# phool
+# sns.boxplot(x="Timestamp",data=data_viz)
+# plt.show()
